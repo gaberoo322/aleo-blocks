@@ -1,0 +1,15 @@
+#BlockData {
+  display: flex;
+  flex-direction: column;
+}
+
+#BlockData .title {
+}
+
+#BlockData .detailArea {
+  display: flex;
+}
+
+#BlockData .dataPair {
+  padding: 0 1rem;
+}
